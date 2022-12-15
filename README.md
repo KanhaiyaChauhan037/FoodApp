@@ -6,9 +6,9 @@ This is the online Food Ordering web app which provides all the basic functional
 </br>
 
 ## 🔗 Live Deployed URL
-Food Ordering vercel link : https://foodorderingapp-eta.vercel.app/ 
+Food Ordering vercel link : https://food-app-blond.vercel.app// 
 </br>
-Food Ordering netlify link : https://63442fc9210efe0b94f57738--foodorderklmn.netlify.app/
+
 
 </br>
 
