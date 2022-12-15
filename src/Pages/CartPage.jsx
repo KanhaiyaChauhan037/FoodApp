@@ -29,7 +29,7 @@ export default function CartPage() {
     console.log("valname", val, name);
     dispatch({ type: "plus", payload: { val, name } });
     console.log("cartttolllll", state.total);
-    console.log("page" , state.cartData);
+    console.log("page", state.cartData);
   };
 
 
@@ -43,7 +43,7 @@ export default function CartPage() {
         mt="4"
         justifyContent={{ base: "center", md: "flex-end" }}
       >
-        <CartTotal  />
+        <CartTotal />
       </Flex>
       {state.cartData?.map((elem, i) => {
         return (
@@ -95,7 +95,7 @@ export default function CartPage() {
                   <Button
                     onClick={() => handlePlus(-1, elem.strMeal)}
                     colorScheme={"yellow"}
-                    disabled ={elem.q === 1}
+                    disabled={elem.q === 1}
                   >
                     -
                   </Button>

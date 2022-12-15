@@ -18,13 +18,13 @@ export default function Footer() {
         backgroundColor={"gray.800"}
       >
         <Text color="white" fontWeight={"400"}>
-          Made with ❣️ by Akshay Rajput
+          Made with ❣️ by Kanhaiya chauhan.
         </Text>
         <Flex w="fit-content" gap="5" mt="5">
-          <a href="https://www.linkedin.com/in/akshay-rajput-422794220">
+          <a href="https://www.linkedin.com/in/kanhaiya-chauhan-867794236/">
             <Button colorScheme="linkedin">LinkedIn</Button>
           </a>
-          <a href="https://github.com/actuallyakshay">
+          <a href="https://github.com/KanhaiyaChauhan037">
             <Button colorScheme="red">Github</Button>
           </a>
         </Flex>
